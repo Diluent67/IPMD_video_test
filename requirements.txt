@@ -1,0 +1,57 @@
+# Python package requirements
+#
+# Comment out the code as necessary to select packages for
+# the video_test repository or the image_conversion repository.
+#
+# IPMD_video_test
+
+imutils
+numpy
+argparse
+dlib
+cv2
+multiprocessing
+glob
+os
+pandas
+re
+pickle
+shutil
+landmarks
+combine
+googlevision
+h5py
+matplotlib
+tensorflow
+math
+Utils
+time
+json
+face_recognition
+
+# IPMD_image_conversion
+
+numpy
+cv2
+combine
+webimg
+matplotlib
+requests
+json
+face_recognition
+time
+os
+pandas
+pickle
+google.cloud.storage
+imutils
+dlib
+multiprocessing
+glob
+re
+landmarks
+shutil
+random
+combine
+googlevision
+urllib.request
